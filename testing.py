@@ -1,4 +1,7 @@
 
-print "hello world"
+print ("hello world")
+Number = int(input( "enter your number"))
+print (Number)
 
-print " what is your name"
+
+
